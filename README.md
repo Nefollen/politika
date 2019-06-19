@@ -1,59 +1,119 @@
-политика конфиденциальности
-Starikov S.S построил приложение "Кино и Сериалы" как приложение бесплатно с поддержкой рекламы.Данный СЕРВИС предоставляется Разработчиком Starikov S.S бесплатно и предназначен для использования как есть.
+Политика конфиденциальности
+Starikov S.S разработал приложение FM Radio #1 в качестве бесплатного приложения. Это приложение предоставляется бесплатно и предназначено для использования как есть.
 
-Эта страница используется для информирования посетителей относительно моих  политик сбора, использования и раскрытия Личной информации, если кто-либо решил использовать мою услугу.
+Эта страница используется для информирования посетителей о политике сбора, использования и раскрытия личной информации, если кто-то решит воспользоваться нашим приложением.
 
-Если вы решите использовать мой Сервис, вы соглашаетесь на сбор и использование информации в соответствии с этой политикой. Личная информация, которую я собираю, используется для предоставления и улучшения Сервиса.Я не буду использовать или передавать вашу информацию кому-либо, кроме случаев, описанных в настоящей Политике конфиденциальности.
+Если вы решите использовать наш сервис, то вы соглашаетесь на сбор и использование информации в связи с данной политикой. Личная информация, которую мы собираем, используется для предоставления и улучшения сервиса. Мы не будем использовать или передавать вашу информацию никому, кроме случаев, описанных в настоящей Политике конфиденциальности.
 
-Термины, используемые в настоящей Политике конфиденциальности, имеют те же значения, что и в наших Условиях использования, которые доступны в "Кино и Сериалы", если иное не определено в настоящей Политике конфиденциальности.
+Термины, используемые в настоящей Политике конфиденциальности, имеют те же значения, что и в наших условиях, которые доступны по адресу https://github.com/Nefollen/politika, если иное не определено в настоящей Политике конфиденциальности.
 
 Сбор и использование информации
 
-Для лучшего использования при использовании нашего Сервиса я могу потребовать, чтобы вы предоставили мне определенную личную информацию  имя пользователя, адрес, местоположение, изображения Информация, которую я запрос будет сохранен на вашем устройстве и не будет мной каким-либо образом оставлен нами и использован, как описано в настоящей политике конфиденциальности.
+Для лучшей работы, при использовании нашего сервиса, мы можем попросить вас предоставить нам определенную личную информацию. Запрашиваемая нами информация будет храниться и использоваться в соответствии с данной политикой конфиденциальности.
 
 Приложение использует сторонние сервисы, которые могут собирать информацию, используемую для вашей идентификации.
 
 Ссылка на политику конфиденциальности сторонних поставщиков услуг, используемых приложением
 
-Сервисы Google Play
-AdMob
+Google Play Services
 Firebase Analytics
-Данные журнала
+Сбор данных
 
-Я хочу сообщить вам, что всякий раз, когда вы используете мой Сервис, в случае ошибки в приложении Я собираю данные и информацию (через сторонние продукты) на вашем телефоне, называемую «Данные журнала». , Эти данные журнала могут включать в себя такую ??информацию, как адрес интернет-протокола («IP») вашего устройства, имя устройства, версия операционной системы, конфигурация приложения при использовании моей службы, время и дата использования вами службы. и другая статистика.
+Мы хотим сообщить вам, что всякий раз, когда вы используете наш сервис, в случае ошибки в приложении мы собираем данные и информацию (через сторонние продукты) на вашем телефоне под названием Log Data. Эти данные журнала могут включать такую информацию, как адрес интернет-протокола вашего устройства («IP»), имя устройства, версию операционной системы, конфигурацию приложения при использовании нашего сервиса, время и дату вашего использования сервиса и другие статистические данные.
 
-cookie
+Cookies
 
-Файлы cookie - это файлы с небольшим объемом данных, которые обычно используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с посещаемых вами веб-сайтов и хранятся во внутренней памяти вашего устройства.
-
-Данный Сервис не использует эти «cookie» явно. Тем не менее, приложение может использовать сторонний код и библиотеки, которые используют «куки» для сбора информации и улучшения своих услуг. У вас есть возможность принять или отклонить эти файлы cookie и узнать, когда файл cookie отправляется на ваше устройство. Если вы решите отказаться от наших файлов cookie, вы не сможете использовать некоторые части этой Услуги.
+Файлы cookie-это файлы с небольшим объемом данных, которые обычно используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с веб-сайтов, которые вы посещаете, и хранятся во внутренней памяти вашего устройства.
+Эта услуга не использует эти «куки» явно. Тем не менее, приложение может использовать сторонний код и библиотеки, которые используют «cookies» для сбора информации и улучшения своих услуг. У вас есть возможность принять или отклонить эти файлы cookie и узнать, когда они отправляются на ваше устройство. Если вы решите отказаться от наших файлов cookie, вы не сможете использовать некоторые части этого сервиса.
 
 Поставщики услуг
 
-Я могут нанимать сторонние компании и частных лиц по следующим причинам:
+Мы можем нанимать сторонние компании и частных лиц по следующим причинам:
 
-Для облегчения нашего Сервиса;
-Предоставлять Сервис от нашего имени;
-Оказывать Сервисные услуги; или же
-Чтобы помочь нам в анализе того, как используется наш Сервис.
-Я хочу проинформировать пользователей данной Услуги о том, что эти третьи стороны имеют доступ к вашей Личной информации. Причина в том, чтобы выполнять порученные им задачи от нашего имени. Однако они обязаны не разглашать и не использовать информацию для каких-либо других целей.
+Облегчить ваше обслуживание;
+Предоставлять услуги от нашего имени;
+Для оказания услуг, связанных с обслуживанием; или
+Чтобы помочь нам в анализе того, как используется наш сервис.
+Мы хотим сообщить пользователям этого сервиса, что эти третьи лица имеют доступ к вашей личной информации. Причина в том, чтобы выполнять задачи, возложенные на них от нашего имени. Однако они обязаны не раскрывать и не использовать эту информацию в каких-либо других целях.
 
 Безопасность
 
-Я ценю ваше доверие в предоставлении мне вашей Личной информации, поэтому мы стремимся использовать коммерчески приемлемые способы ее защиты. Но помните, что ни один метод передачи по Интернету или метод электронного хранения не является на 100% безопасным и надежным, и Я не могу гарантировать его абсолютную безопасность.
+Мы ценим ваше доверие в предоставлении нам Вашей личной информации, поэтому мы стремимся использовать коммерчески приемлемые средства ее защиты. Но помните, что ни один метод передачи через интернет, или метод электронного хранения не является на 100% безопасным и надежным, и мы не можем гарантировать его абсолютную безопасность.
 
 Ссылки на другие сайты
 
-Данный Сервис может содержать ссылки на другие сайты. Если вы нажмете на стороннюю ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что эти внешние сайты не управляются мной. Поэтому я настоятельно рекомендуем вам ознакомиться с Политикой конфиденциальности этих веб-сайтов. Я не контролирую и не несут ответственности за содержание, политику конфиденциальности или действия любых сторонних сайтов или служб.
+Этот сервис может содержать ссылки на другие сайты. Если вы нажмете на ссылку третьей стороны, вы будете перенаправлены на этот сайт. Обратите внимание, что эти внешние сайты не управляются нами. Поэтому, мы настоятельно рекомендуем вам ознакомиться с политикой конфиденциальности этих веб-сайтов. Мы не имеем никакого контроля над и не несем никакой ответственности за содержание, политику конфиденциальности или практику любых сторонних сайтов или сервисов.
 
-Конфиденциальность детей
+Конфиденциальность информации о детях
 
-Эти Услуги не предназначены для лиц младше 13 лет. Я не собираю сознательно личную информацию от детей младше 13 лет. В случае, если Я обнаружу, что ребенок младше 13 лет предоставил мне с личной информацией, я немедленно удалить это с наших серверов. Если вы являетесь родителем или опекуном и вам известно, что ваш ребенок предоставил нам личную информацию, пожалуйста, свяжитесь с мной, чтобы я мог выполнить необходимые действия.
+Эти услуги не предназначены для лиц младше 13 лет. Мы не собираем личную информацию от детей младше 13 лет. Если мы обнаружим, что ребенок младше 13 лет предоставил нам личную информацию, мы немедленно удалим ее с наших серверов. Если вы являетесь родителем или опекуном и знаете, что ваш ребенок предоставил нам личную информацию, пожалуйста, свяжитесь с нами, чтобы мы могли предпринять необходимые действия.
 
-Изменения в настоящей Политике конфиденциальности
+Изменения в Политике конфиденциальности
 
-Я могу время от времени обновлять мою Политику конфиденциальности. Таким образом, вам рекомендуется периодически просматривать эту страницу на наличие изменений.Я уведомлю вас о любых изменениях, разместив новую Политику конфиденциальности на этой странице. Эти изменения вступают в силу сразу после их публикации на этой странице.
+Мы можем время от времени обновлять нашу политику конфиденциальности. Поэтому рекомендуется периодически просматривать эту страницу на предмет изменений. Мы уведомим вас о любых изменениях, разместив новую Политику конфиденциальности на этой странице. Эти изменения вступают в силу немедленно после их публикации на этой странице.
 
-Связаться со мной
+Связь с нами starikovproductions@gmail.com
 
-Если у вас есть какие-либо вопросы или предложения по поводу моей Политики конфиденциальности, не стесняйтесь обращаться ко мне starikovproductions@gmail.com
+Если у вас есть какие-либо вопросы или предложения относительно нашей политики конфиденциальности, вы можете обратиться на mail.smi59@yandex.ru
+
+ 
+
+Privacy Policy
+
+Starikov S.S built the FM Radio #1 app as a Free app. This SERVICE is no cost and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at nashe.ru/appprivacy unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+Google Play Services
+Firebase Analytics
+Log Data
+
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol («IP») address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
+
+This Service does not use these «cookies» explicitly. However, the app may use third party code and libraries that use «cookies» to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact Us starikovproductions@gmail.com
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
